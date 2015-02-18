@@ -4,4 +4,12 @@ y lo ha modificado David.
 
 y Pablo tambien.
 
+<<<<<<< HEAD
 Rama de David
+=======
+Soy Cristo y estoy en la ramaC
+
+Segundo commit
+
+Vuelvo a la rama master
+>>>>>>> efd11276102ddbfca3c84a0b7a2c1ce58d64ad88
